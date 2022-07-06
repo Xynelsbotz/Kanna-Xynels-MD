@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://telegra.ph/file/4ee6b246627f8ac4dbcff.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
+    <img src="https://telegra.ph/file/2dfb441c30c960f05d058.jpg" width="100%" style="margin-left: auto;margin-right: auto;display: block;">
 </p>
 <h1 align="center">Kanna-Xynels-MD</h1>
 <p align="center">
