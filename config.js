@@ -41,30 +41,30 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = 'https://instagram.com/zalfapontianak'
-global.sgh = 'https://github.com/Botynyakamu'
+global.sig = 'https://instagram.com/cynels.design'
+global.sgh = 'https://github.com/Xynelsbotz'
 global.sgc = 'https://chat.whatsapp.com/I8Q4oJVw8buHhIgMH5iVAv'
 global.sdc = 'https://wa.me/message/LSVGQQPG6FUQF1'
-global.snh = 'https://youtube.com/channel/UCeUvY_fIVSAaQ1n5SAylI-A'
+global.snh = 'https://youtube.com/xynelsdesign'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085828764046'
-global.povo = '085828764046'
-global.pgopay = '085828764046'
+global.pdana = '085646458928'
+global.povo = '085646458928'
+global.pgopay = '[Scan QR]'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6285787476829'
-global.nomorown = '6285828377610'
-global.namebot = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.nameown = 'ᴹᴿ᭄ ZifaOffcོ_1ঔৣ꧂'
+global.nomorbot = '6285646458928'
+global.nomorown = '6281515453325'
+global.namebot = 'Sayu Ogiwara'
+global.nameown = 'Xynels Design'
 
 
 /*============== STAFF ==============*/
 global.owner = [
   ['6285828377610'],
-  ['6285828377610'],
-  ['6285828377610'],
+  ['6281515453325'],
   ['6285828377610', 'Rozi', true]
+  ['6281515453325', 'Xynels Design', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -109,20 +109,20 @@ global.APIKeys = { // APIKey Here
 
 
 /*============== WATERMARK ==============*/
-global.wm = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪' //Main Watermark
-global.wm2 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
-global.wm3 = '⳹ ❋ཻུ۪۪⸙Zifabotz-MD⳹ ❋ཻུ۪۪'
+global.wm = '⳹ ❋ཻུ۪۪⸙Sayu-Ogiwara⳹ ❋ཻུ۪۪' //Main Watermark
+global.wm2 = '⳹ ❋ཻུ۪۪⸙Sayu-Ogiwara⳹ ❋ཻུ۪۪'
+global.wm3 = '⳹ ❋ཻུ۪۪⸙Sayu-Ogiwara⳹ ❋ཻུ۪۪'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `☘︎ 𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
-global.author = '┄┄┄┅┅❑ ROZI ❑┅┅┄┄┄'
+global.author = '┄┄┄┅┅❑ XYNELS ❑┅┅┄┄┄'
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg' //Main Thumbnail
-global.imagebot = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
-global.giflogo = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
-global.thumbs = ['https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg', 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg']
+global.thumb = 'https://telegra.ph/file/464bfceeefd97255c0646.jpg' //Main Thumbnail
+global.imagebot = 'https://telegra.ph/file/464bfceeefd97255c0646.jpg'
+global.giflogo = 'https://telegra.ph/file/464bfceeefd97255c0646.jpg'
+global.thumbs = ['https://telegra.ph/file/464bfceeefd97255c0646.jpg', 'https://telegra.ph/file/735d2f99a341a8d98b1c8.jpg', 'https://telegra.ph/file/ab53da05196b0e4be0216.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
 /*============== HENTAI ==============*/ //Ini cuma simpenan owner kanna kok :v
@@ -147,7 +147,7 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/3c83bc5fa0cbcdc6a1e75.jpg'
+global.thumbdoc = 'https://telegra.ph/file/c9f8be742629199bc4c1b.jpg'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -163,10 +163,10 @@ global.dmenuf = '┗––––––––––✦' //footer
 // COMMAND MENU
 global.cmenut = '❏––––––『' //top
 global.cmenuh = '』––––––' //header
-global.cmenub = '┊☃︎ ' //body
+global.cmenub = '┊ౄ ' //body
 global.cmenuf = '┗━═┅═━––––––๑\n' //footer
 global.cmenua = '\n⌕ ❙❘❙❙❘❙❚❙❘❙❙❚❙❘❙❘❙❚❙❘❙❙❚❙❘❙❙❘❙❚❙❘ ⌕\n     ' //after
-global.pmenus = '☃︎' //pembatas menu selector
+global.pmenus = 'ౄ' //pembatas menu selector
 
 global.htki = '––––––『' //hiasan title kiri
 global.htka = '』––––––' //hiasan title kanan
@@ -175,8 +175,8 @@ global.lolm = 'Ⓛ'
 global.htjava = '☘︎' //hiasan Doang :v
 
 /*============== STICKER WM ==============*/
-global.stickpack = '.'
-global.stickauth = `.`
+global.stickpack = '2022'
+global.stickauth = `Xynels Design`
 
 global.multiplier = 38 // The higher, The harder levelup
 
