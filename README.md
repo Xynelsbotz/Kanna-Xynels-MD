@@ -10,7 +10,7 @@
  <a href="#"><img title="SayuOgiwara" src="https://img.shields.io/badge/Kanna BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/kannachann"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Kanna-blue.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Xynelsbotz"><img title="Author" src="https://img.shields.io/badge/AUTHOR-Xynels-blue.svg?style=for-the-badge&logo=github"></a>
 </p>
 <a href="https://github.com/Xynelsbotz/Kanna-Xynels-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/kannachann/KannaBOT-MD?label=Forks&color=blue&style=flat-square"></a>
 <a href="https://github.com/Xynelsbotz/Kanna-Xynels-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/kannachann/KannaBOT-MD?label=Watchers&color=green&style=flat-square"></a>
